@@ -1,4 +1,4 @@
-package com.udacity.jdnd.course3.critter.schedule;
+package com.domenicoventura.critter.schedule;
 
 import org.springframework.web.bind.annotation.*;
 

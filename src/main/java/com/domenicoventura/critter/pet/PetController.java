@@ -1,4 +1,4 @@
-package com.udacity.jdnd.course3.critter.pet;
+package com.domenicoventura.critter.pet;
 
 import org.springframework.web.bind.annotation.*;
 

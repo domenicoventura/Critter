@@ -1,13 +1,13 @@
-package com.udacity.jdnd.course3.critter;
+package com.domenicoventura.critter;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
-import com.udacity.jdnd.course3.critter.pet.PetController;
-import com.udacity.jdnd.course3.critter.pet.PetDTO;
-import com.udacity.jdnd.course3.critter.pet.PetType;
-import com.udacity.jdnd.course3.critter.schedule.ScheduleController;
-import com.udacity.jdnd.course3.critter.schedule.ScheduleDTO;
-import com.udacity.jdnd.course3.critter.user.*;
+import com.domenicoventura.critter.pet.PetController;
+import com.domenicoventura.critter.pet.PetDTO;
+import com.domenicoventura.critter.pet.PetType;
+import com.domenicoventura.critter.schedule.ScheduleController;
+import com.domenicoventura.critter.schedule.ScheduleDTO;
+import com.domenicoventura.critter.user.*;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
