@@ -5,5 +5,3 @@ Critter Chronologer a Software as a Service application that provides a scheduli
 
 ## Features/Technologies:
 Java OOP, Spring Boot, JPA, Hibernate, MySql, Junit
-
-<a href="http://matt.zapto.org:8082" target="_blank">View Live!</a>
